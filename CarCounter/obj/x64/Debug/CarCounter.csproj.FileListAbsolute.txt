@@ -1,0 +1,43 @@
+C:\Users\userr\Downloads\folder_d_rpl\CarDetect-master\CarCounter\bin\x64\Debug\CarCounter.exe.config
+C:\Users\userr\Downloads\folder_d_rpl\CarDetect-master\CarCounter\bin\x64\Debug\x64\concrt140.dll
+C:\Users\userr\Downloads\folder_d_rpl\CarDetect-master\CarCounter\bin\x64\Debug\x64\cvextern.dll
+C:\Users\userr\Downloads\folder_d_rpl\CarDetect-master\CarCounter\bin\x64\Debug\x64\msvcp140.dll
+C:\Users\userr\Downloads\folder_d_rpl\CarDetect-master\CarCounter\bin\x64\Debug\x64\opencv_ffmpeg330_64.dll
+C:\Users\userr\Downloads\folder_d_rpl\CarDetect-master\CarCounter\bin\x64\Debug\x64\vcruntime140.dll
+C:\Users\userr\Downloads\folder_d_rpl\CarDetect-master\CarCounter\bin\x64\Debug\CarCounter.exe
+C:\Users\userr\Downloads\folder_d_rpl\CarDetect-master\CarCounter\bin\x64\Debug\CarCounter.pdb
+C:\Users\userr\Downloads\folder_d_rpl\CarDetect-master\CarCounter\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\userr\Downloads\folder_d_rpl\CarDetect-master\CarCounter\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Users\userr\Downloads\folder_d_rpl\CarDetect-master\CarCounter\bin\x64\Debug\Emgu.CV.UI.GL.dll
+C:\Users\userr\Downloads\folder_d_rpl\CarDetect-master\CarCounter\bin\x64\Debug\Emgu.CV.World.dll
+C:\Users\userr\Downloads\folder_d_rpl\CarDetect-master\CarCounter\bin\x64\Debug\ZedGraph.dll
+C:\Users\userr\Downloads\folder_d_rpl\CarDetect-master\CarCounter\bin\x64\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\userr\Downloads\folder_d_rpl\CarDetect-master\CarCounter\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\userr\Downloads\folder_d_rpl\CarDetect-master\CarCounter\bin\x64\Debug\Emgu.CV.UI.GL.xml
+C:\Users\userr\Downloads\folder_d_rpl\CarDetect-master\CarCounter\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\userr\Downloads\folder_d_rpl\CarDetect-master\CarCounter\bin\x64\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\userr\Downloads\folder_d_rpl\CarDetect-master\CarCounter\obj\x64\Debug\CarCounter.csprojResolveAssemblyReference.cache
+C:\Users\userr\Downloads\folder_d_rpl\CarDetect-master\CarCounter\obj\x64\Debug\CarCounter.frmMain.resources
+C:\Users\userr\Downloads\folder_d_rpl\CarDetect-master\CarCounter\obj\x64\Debug\CarCounter.Properties.Resources.resources
+C:\Users\userr\Downloads\folder_d_rpl\CarDetect-master\CarCounter\obj\x64\Debug\CarCounter.csproj.GenerateResource.Cache
+C:\Users\userr\Downloads\folder_d_rpl\CarDetect-master\CarCounter\obj\x64\Debug\CarCounter.exe
+C:\Users\userr\Downloads\folder_d_rpl\CarDetect-master\CarCounter\obj\x64\Debug\CarCounter.pdb
+C:\Users\Anjasmara Dwi.S\Downloads\folder_d_rpl\CarDetect-master\CarCounter\bin\x64\Debug\CarCounter.exe.config
+C:\Users\Anjasmara Dwi.S\Downloads\folder_d_rpl\CarDetect-master\CarCounter\obj\x64\Debug\CarCounter.exe
+C:\Users\Anjasmara Dwi.S\Downloads\folder_d_rpl\CarDetect-master\CarCounter\obj\x64\Debug\CarCounter.pdb
+C:\Users\Anjasmara Dwi.S\Downloads\folder_d_rpl\CarDetect-master\CarCounter\bin\x64\Debug\x64\concrt140.dll
+C:\Users\Anjasmara Dwi.S\Downloads\folder_d_rpl\CarDetect-master\CarCounter\bin\x64\Debug\x64\cvextern.dll
+C:\Users\Anjasmara Dwi.S\Downloads\folder_d_rpl\CarDetect-master\CarCounter\bin\x64\Debug\x64\msvcp140.dll
+C:\Users\Anjasmara Dwi.S\Downloads\folder_d_rpl\CarDetect-master\CarCounter\bin\x64\Debug\x64\opencv_ffmpeg330_64.dll
+C:\Users\Anjasmara Dwi.S\Downloads\folder_d_rpl\CarDetect-master\CarCounter\bin\x64\Debug\x64\vcruntime140.dll
+C:\Users\Anjasmara Dwi.S\Downloads\folder_d_rpl\CarDetect-master\CarCounter\bin\x64\Debug\CarCounter.exe
+C:\Users\Anjasmara Dwi.S\Downloads\folder_d_rpl\CarDetect-master\CarCounter\bin\x64\Debug\CarCounter.pdb
+C:\Users\Anjasmara Dwi.S\Downloads\folder_d_rpl\CarDetect-master\CarCounter\bin\x64\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Anjasmara Dwi.S\Downloads\folder_d_rpl\CarDetect-master\CarCounter\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\Anjasmara Dwi.S\Downloads\folder_d_rpl\CarDetect-master\CarCounter\bin\x64\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Anjasmara Dwi.S\Downloads\folder_d_rpl\CarDetect-master\CarCounter\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\Anjasmara Dwi.S\Downloads\folder_d_rpl\CarDetect-master\CarCounter\bin\x64\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\Anjasmara Dwi.S\Downloads\folder_d_rpl\CarDetect-master\CarCounter\obj\x64\Debug\CarCounter.csprojResolveAssemblyReference.cache
+C:\Users\Anjasmara Dwi.S\Downloads\folder_d_rpl\CarDetect-master\CarCounter\obj\x64\Debug\CarCounter.frmMain.resources
+C:\Users\Anjasmara Dwi.S\Downloads\folder_d_rpl\CarDetect-master\CarCounter\obj\x64\Debug\CarCounter.Properties.Resources.resources
+C:\Users\Anjasmara Dwi.S\Downloads\folder_d_rpl\CarDetect-master\CarCounter\obj\x64\Debug\CarCounter.csproj.GenerateResource.Cache
