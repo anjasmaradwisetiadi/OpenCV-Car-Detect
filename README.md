@@ -1,5 +1,5 @@
-#CarDetect Open-CV
-##Car detection using haarcascades
+CarDetect Open-CV
+Car detection using haarcascades
 
 original: https://github.com/andrewssobral/vehicle_detection_haarcascades
 
